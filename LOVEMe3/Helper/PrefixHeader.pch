@@ -1,0 +1,23 @@
+//
+//  PrefixHeader.pch
+//  LOVE_me
+//
+//  Created by qianfeng on 15/8/30.
+//  Copyright (c) 2015年 王梦娇. All rights reserved.
+//
+
+#ifndef LOVE_me_PrefixHeader_pch
+#define LOVE_me_PrefixHeader_pch
+
+
+#import "UIView+Addition.h"
+#import "MyHelper.h"
+#import "Factory.h"
+#import "LZXHelper.h"
+
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
